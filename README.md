@@ -5,7 +5,7 @@
 <h2 align="center">🌟 About Me 🌟</h2>
 
 <p align="justify">
-I'm a passionate Senior Flutter Developer with over 4 years of experience building high-quality cross-platform mobile applications. With a strong foundation in Flutter, Java, and Kotlin, I excel at delivering intuitive, user-friendly, and performance-driven solutions.
+I'm a passionate Senior Flutter Developer with over 5 years of experience building high-quality cross-platform mobile applications. With a strong foundation in Flutter, Java, and Kotlin, I excel at delivering intuitive, user-friendly, and performance-driven solutions.
 </p>
 
 <div align="center">
